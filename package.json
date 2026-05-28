@@ -1,0 +1,25 @@
+{
+  "name": "secondself-v37-polished-v29-latest-smart",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "20.x"
+  },
+  "packageManager": "yarn@1.22.22",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "vite": "5.4.19",
+    "lucide-react": "0.468.0",
+    "leaflet": "1.9.4",
+    "react-leaflet": "4.2.1"
+  },
+  "devDependencies": {},
+  "description": "SecondSelf personal fit engine: Find, Compare, and Check before committing."
+}
